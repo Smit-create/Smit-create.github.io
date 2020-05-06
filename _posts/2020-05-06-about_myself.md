@@ -7,14 +7,14 @@ about_me: true
 suburl: "2020/05/06/about_myself.html"
 ---
 
-Name: Smit Lunagariya
+**Name**: Smit Lunagariya
 
-University: Indian Institute of Technology-BHU, Varanasi
+**University**: Indian Institute of Technology-BHU, Varanasi
 
-Major: Mathematics and Computing
+**Major**: Mathematics and Computing
 
-Year: Sophomore
+**Year**: Sophomore
 
-Interests: Machine Learning, Deep Learning, Sports Programming
+**Interests**: Machine Learning, Sports Programming, Deep Learning
 
-Languages: Python, C++, C, Java
+**Languages Familiar**: Python, C++, C, Java

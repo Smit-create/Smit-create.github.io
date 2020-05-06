@@ -41,7 +41,7 @@
 	<div class="inner">
           {% for post in site.posts %}
       {% if post.title != 404 %}
-      {% if post.open_blog %}
+      {% if post.gsoc_blog %}
 	  <header class="content">
 	    <a href="{{ site.baseurl }}/{{ post.suburl }}"><h3>{{ post.title }}</h3></a>
 	  </header>
