@@ -4,6 +4,7 @@ layout: post
 description: null
 image: null
 gsoc_blog: true
+nav-menu: true
 suburl: "2020/05/05/first_blog.html"
 ---
 
