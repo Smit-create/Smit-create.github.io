@@ -4,7 +4,6 @@ layout: post
 description: null
 image: null
 about_me: true
-nav-menu: true
 suburl: "2020/05/06/about_myself.html"
 ---
 
