@@ -1,12 +1,13 @@
 format: jb-book
 root: intro
 parts:
-# - caption: Experience
-#   numbered: false
-#   maxdepth: 1
-#   chapters:
-#   - file: posts/open_source/scipy
-#   - file: posts/open_source/gsoc
+- caption: Research & Academics
+  numbered: false
+  maxdepth: 1
+  chapters:
+  - file: posts/research/teach
+  - file: posts/research/publication
+  - file: posts/research/qe
 - caption: Open Source
   numbered: false
   maxdepth: 1

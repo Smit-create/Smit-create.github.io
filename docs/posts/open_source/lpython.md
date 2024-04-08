@@ -11,7 +11,7 @@ generation, and the seamless integration of advanced Python
 functionalities like function overloading and JIT (Just-In-Time
 compilation).
 
-**Milestone**: [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
+**Milestone**: [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/) and [ycombinator news](https://news.ycombinator.com/item?id=36916182).
 
 ## More about LPython
 
