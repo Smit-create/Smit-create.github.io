@@ -4,7 +4,7 @@ Author: Smit Lunagariya
 
 ## GSoC 2020 Report: Improving and Extending stats module
 
-This is the final report of the entire GSoC 2020 for the project titled as **Improving and Extending stats module** with [SymPy](https://sympy.org) as the organization. My mentors were [Gagandeep Singh](https://github.com/czgdp1807), [Francesco Bonazzi](https://github.com/Upabjojr) and [Jogi Miglani](https://github.com/jmig5776). The complete description of the project implementation and discussions of the entire program is available at [smit-create.github.io](https://smit-create.github.io/gsoc_blog.html).
+This is the final report of the entire GSoC 2020 for the project titled as **Improving and Extending stats module** with [SymPy](https://sympy.org) as the organization. My mentors were [Gagandeep Singh](https://github.com/czgdp1807), [Francesco Bonazzi](https://github.com/Upabjojr) and [Jogi Miglani](https://github.com/jmig5776). The complete description of the project implementation and discussions of the entire program is available at [smit-create.github.io](https://smit-create.github.io/intro.html).
 
 ### About Me
 

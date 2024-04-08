@@ -1,9 +1,18 @@
 format: jb-book
 root: intro
 parts:
+# - caption: Experience
+#   numbered: false
+#   maxdepth: 1
+#   chapters:
+#   - file: posts/open_source/scipy
+#   - file: posts/open_source/gsoc
 - caption: Open Source
   numbered: false
+  maxdepth: 1
   chapters:
+  - file: posts/open_source/lpython
+  - file: posts/open_source/lfortran
   - file: posts/open_source/scipy
   - file: posts/open_source/gsoc
     sections:
