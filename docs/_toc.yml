@@ -16,23 +16,6 @@ parts:
   - file: posts/open_source/lfortran
   - file: posts/open_source/scipy
   - file: posts/open_source/gsoc
-    sections:
-    - file: posts/open_source/gsoc_posts/pre_gsoc.md
-    - file: posts/open_source/gsoc_posts/community_bonding.md
-    - file: posts/open_source/gsoc_posts/week_1.md
-    - file: posts/open_source/gsoc_posts/week_2.md
-    - file: posts/open_source/gsoc_posts/week_3.md
-    - file: posts/open_source/gsoc_posts/week_4.md
-    - file: posts/open_source/gsoc_posts/phase_1.md
-    - file: posts/open_source/gsoc_posts/week_5.md
-    - file: posts/open_source/gsoc_posts/week_6.md
-    - file: posts/open_source/gsoc_posts/week_7.md
-    - file: posts/open_source/gsoc_posts/week_8.md
-    - file: posts/open_source/gsoc_posts/week_9.md
-    - file: posts/open_source/gsoc_posts/week_10.md
-    - file: posts/open_source/gsoc_posts/week_11.md
-    - file: posts/open_source/gsoc_posts/week_12.md
-    - file: posts/open_source/gsoc_posts/final_report.md
 
   # - file: tutorials/references
 

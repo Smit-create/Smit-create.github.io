@@ -1,4 +1,4 @@
-# SciPy(NumFOCUS) Internship: 2021-2022
+# SciPy(NumFOCUS) Internship
 
 
 I was [selected as an intern](https://mail.python.org/archives/list/scipy-dev@python.org/message/4S43BYHDQIPQENNJ6EMQY5QZDZK3ZT5I/) to work on [SciPy](https://scipy.org/) build system.
