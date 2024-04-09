@@ -4,10 +4,10 @@
 
 - Author, [JAX Tutorials](https://smit-create.github.io/jax_tutorial/)
 - Lead Developer, [Quantitative Economics with JAX](https://jax.quantecon.org/)
-- Lead Developer, [Python Programming for Economics and Finance](https://python-programming.quantecon.org/)
-- Lead Developer, [A First Course in Quantitative Economics with Python](https://intro.quantecon.org/)
-- Lead Developer, [Intermediate Quantitative Economics with Python](https://python.quantecon.org/)
-- Lead Developer, [Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/)
+- Developer, [Python Programming for Economics and Finance](https://python-programming.quantecon.org/)
+- Developer, [A First Course in Quantitative Economics with Python](https://intro.quantecon.org/)
+- Developer, [Intermediate Quantitative Economics with Python](https://python.quantecon.org/)
+- Developer, [Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/)
 
 
 ## Teaching Assistance

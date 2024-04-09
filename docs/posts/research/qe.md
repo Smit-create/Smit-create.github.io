@@ -6,7 +6,7 @@ enriched both my academic journey and professional growth. This all started
 as I was very curious to learn more about economics and contributing to
 [QuantEcon.py](https://quantecon.org/quantecon-py/).
 
-I was one of **founding member** while drafting of a comprehensive lecture series tailored for
+I was one of **founding member** of a comprehensive lecture series tailored for
 [undergraduates](https://intro.quantecon.org/intro.html), along with [Google JAX lectures](https://jax.quantecon.org/intro.html) focusing on quantitative
 economics and open science. These initiatives were crafted with precision to enhance
 learning experiences, bridging theoretical concepts with practical

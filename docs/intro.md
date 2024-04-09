@@ -2,7 +2,8 @@
 
 Hello there!
 
-I'm **Smit Lunagariya**, a Software Engineer currently working at **Google**.
+I'm **Smit Lunagariya**, a Software Engineer currently working at
+**Google**. I have done my bachelor's and master's in **Mathematics and Computing Engineering** from [Indian Institute of Technology (BHU)](https://iitbhu.ac.in/).
 
 My exhilarating journey in the realm of software engineering commenced
 when I clinched a  spot in the Google Summer of Code
@@ -16,7 +17,10 @@ computing*, *optimization*, *compilers*, and *machine learning*, and I
 find myself constantly on a quest for innovation and
 excellence.
 
-Let's shape the future together. 🚀
+**Most recent update**: I wrote a [JAX tutorial series](https://smit-create.github.io/jax_tutorial/).
+
+```{tableofcontents}
+```
 
 ## Contact
 
