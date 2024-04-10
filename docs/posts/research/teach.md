@@ -19,6 +19,6 @@ I lead the tutorial classes with key responsibilities of
 
 ### Workshops
 
-- Africa Workshop: [QuantEcon Summer Course in Quantitative Economics](https://quantecon.github.io/ASE_ENSEA_workshop/), 2023, [African School of Economics](https://africanschoolofeconomics.com/) and [Institute of Statitics and Applied Economics](https://ensea.ed.ci/)
+- Africa Workshop: [QuantEcon Summer Course in Quantitative Economics](https://quantecon.github.io/workshop.africa-july2023/), 2023, [African School of Economics](https://africanschoolofeconomics.com/) and [Institute of Statitics and Applied Economics](https://ensea.ed.ci/)
 
 - India Workshop: [QuantEcon Summer Course in Quantitative Economics](https://quantecon.github.io/indian_summer_workshop/), 2022, [Department of Economics at Ashoka University](https://www.ashoka.edu.in/department/department-of-economics/), [Delhi School of Economics](http://econdse.org/) and [Indian Statistical Institute](https://www.isical.ac.in/)
