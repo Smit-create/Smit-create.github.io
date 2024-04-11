@@ -5,8 +5,8 @@ Hello there!
 I'm **Smit Lunagariya**, a Software Engineer currently working at
 **Google**. I have done my bachelor's and master's in **Mathematics and Computing Engineering** from [Indian Institute of Technology (BHU)](https://iitbhu.ac.in/).
 
-My exhilarating journey in the realm of software engineering commenced
-when I clinched a  spot in the Google Summer of Code
+My journey of software engineering commenced
+when I clinched a spot in the Google Summer of Code
 program back in 2020. Since then, there's been no looking back!
 I was instantly captured by the captivating world of open source,
 and I've been contributing to an array of groundbreaking projects such as [SymPy](https://www.sympy.org/en/index.html), [SciPy](https://scipy.org/), [LPython](https://github.com/lcompilers/lpython), [LFortran](https://lfortran.org/), [QuantEcon](https://quantecon.org/),
